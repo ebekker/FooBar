@@ -1,0 +1,1 @@
+[MadScience](/ebekker/foobar/wiki)
