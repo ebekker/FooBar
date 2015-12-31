@@ -1,1 +1,1 @@
-[MadScience](//:github.com/ebekker/foobar/wiki)
+[MadScience](//github.com/ebekker/foobar/wiki)
