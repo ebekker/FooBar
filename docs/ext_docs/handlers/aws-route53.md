@@ -6,6 +6,7 @@ Provider for handling Challenges that manages DNS entries hosted in an AWS Route
 | **Name:** | `aws-route53`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | True
+
 ## Parameters
 ---
 ### Hosted Zone ID
