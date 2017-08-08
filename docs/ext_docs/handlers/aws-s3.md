@@ -1,4 +1,6 @@
-﻿# Challenge Handler: AWS S3
+﻿
+# Challenge Handler: AWS S3
+
 Provider for handling Challenges that manages file entries hosted in an AWS S3 bucket.  The handler depends on an appropriate DNS mapping to be configured externally that resolves to the target bucket.
 
 | | |
@@ -6,6 +8,7 @@ Provider for handling Challenges that manages file entries hosted in an AWS S3 b
 | **Name:** | `aws-s3`
 | **SupportedTypes:** | HTTP
 | **IsCleanUpSupported:** | True
+
 ## Parameters
 ---
 ### Bucket Name

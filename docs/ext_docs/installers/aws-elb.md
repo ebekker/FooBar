@@ -1,10 +1,13 @@
-﻿# Installer: AWS Elastic Load Balancer
+﻿
+# Installer: AWS Elastic Load Balancer
+
 Provider for handling certificate installation to AWS Elastic Load Balancer.
 
 | | |
 |-|-|
 | **Name:** | `aws-elb`
 | **IsUninstallSupported:** | False
+
 ## Parameters
 ---
 ### ELB Instance Name

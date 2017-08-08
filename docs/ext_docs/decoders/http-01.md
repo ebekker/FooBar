@@ -1,4 +1,6 @@
-﻿# Challenge Decoder: 
+﻿
+# Challenge Decoder: 
+
 Challenge type decoder for the HTTP type as specified in https://tools.ietf.org/html/draft-ietf-acme-acme-01#section-7.2
 
 | | |
@@ -6,3 +8,4 @@ Challenge type decoder for the HTTP type as specified in https://tools.ietf.org/
 | **Name:** | ``
 | **ChallengeType:** | http-01
 | **SupportedType:** | HTTP
+

@@ -1,4 +1,6 @@
-﻿# Challenge Handler: Internet Information Server (IIS)
+﻿
+# Challenge Handler: Internet Information Server (IIS)
+
 Provider for handling Challenges that manages the local IIS site configuration.
 
 | | |
@@ -6,6 +8,7 @@ Provider for handling Challenges that manages the local IIS site configuration.
 | **Name:** | `iis`
 | **SupportedTypes:** | HTTP
 | **IsCleanUpSupported:** | True
+
 ## Parameters
 ---
 ### Web Site Ref

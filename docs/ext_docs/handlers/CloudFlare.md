@@ -1,4 +1,6 @@
-﻿# Challenge Handler: CloudFlare DNS
+﻿
+# Challenge Handler: CloudFlare DNS
+
 Provider for handling challenges that manages DNS entries hosted in a CloudFlare zone
 
 | | |
@@ -6,6 +8,7 @@ Provider for handling challenges that manages DNS entries hosted in a CloudFlare
 | **Name:** | `CloudFlare`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | True
+
 ## Parameters
 ---
 ### Domain name

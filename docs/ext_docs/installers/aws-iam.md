@@ -1,10 +1,13 @@
-﻿# Installer: AWS IAM Server Certificate
+﻿
+# Installer: AWS IAM Server Certificate
+
 Provider for uploading a certificate to IAM as a Server Certificate.
 
 | | |
 |-|-|
 | **Name:** | `aws-iam`
 | **IsUninstallSupported:** | False
+
 ## Parameters
 ---
 ### Server Certificate Name

@@ -1,10 +1,13 @@
-﻿# Installer: Windows Certificate Store
+﻿
+# Installer: Windows Certificate Store
+
 Installer supprts importing certificate to the user or system Windows Certificate Store
 
 | | |
 |-|-|
 | **Name:** | `win-cert`
 | **IsUninstallSupported:** | False
+
 ## Parameters
 ---
 ### Store Location

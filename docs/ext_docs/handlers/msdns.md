@@ -1,4 +1,6 @@
-﻿# Challenge Handler: Microsoft DNS Provider
+﻿
+# Challenge Handler: Microsoft DNS Provider
+
 A microsoft dns provider for handling Challenges. This provider supports the DNS Challenge type and computes all the necessary response values. It will create DNS entries.
 
 | | |
@@ -6,4 +8,5 @@ A microsoft dns provider for handling Challenges. This provider supports the DNS
 | **Name:** | `msdns`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | False
+
 ## Parameters
