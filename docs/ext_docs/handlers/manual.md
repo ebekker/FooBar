@@ -1,6 +1,6 @@
 ﻿
 
-[Provider Extensions] > [Challenge Handlers] > Manual Provider
+[Provider Extensions](../..) > [Challenge Handlers](..) > Manual Provider
  
 # Challenge Handler: Manual Provider
 
