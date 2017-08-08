@@ -8,6 +8,8 @@ Provider for uploading a certificate to IAM as a Server Certificate.
 |-|-|
 | **Name:** | `aws-iam`
 | **IsUninstallSupported:** | False
+| **Assembly:** | `ACMESharp.Providers.AWS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

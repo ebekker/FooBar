@@ -9,6 +9,8 @@ Provider for handling challenges that manages DNS entries hosted in a CloudFlare
 | **Name:** | `CloudFlare`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | True
+| **Assembly:** | `ACMESharp.Providers.CloudFlare`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

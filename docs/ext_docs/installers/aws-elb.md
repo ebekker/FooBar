@@ -8,6 +8,8 @@ Provider for handling certificate installation to AWS Elastic Load Balancer.
 |-|-|
 | **Name:** | `aws-elb`
 | **IsUninstallSupported:** | False
+| **Assembly:** | `ACMESharp.Providers.AWS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

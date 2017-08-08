@@ -8,6 +8,8 @@ Installer supprts importing certificate to the user or system Windows Certificat
 |-|-|
 | **Name:** | `win-cert`
 | **IsUninstallSupported:** | False
+| **Assembly:** | `ACMESharp.Providers.Windows`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

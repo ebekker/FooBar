@@ -9,6 +9,8 @@ A manual provider for handling Challenges. This provider supports the DNS and HT
 | **Name:** | `manual`
 | **SupportedTypes:** | DNS, HTTP
 | **IsCleanUpSupported:** | False
+| **Assembly:** | `ACMESharp`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

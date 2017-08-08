@@ -9,6 +9,8 @@ Provider for handling Challenges that manages file entries hosted in an AWS S3 b
 | **Name:** | `aws-s3`
 | **SupportedTypes:** | HTTP
 | **IsCleanUpSupported:** | True
+| **Assembly:** | `ACMESharp.Providers.AWS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

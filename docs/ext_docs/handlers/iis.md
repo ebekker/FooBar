@@ -9,6 +9,8 @@ Provider for handling Challenges that manages the local IIS site configuration.
 | **Name:** | `iis`
 | **SupportedTypes:** | HTTP
 | **IsCleanUpSupported:** | True
+| **Assembly:** | `ACMESharp.Providers.IIS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

@@ -9,6 +9,8 @@ Provider for handling Challenges that manages DNS entries hosted in an AWS Route
 | **Name:** | `aws-route53`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | True
+| **Assembly:** | `ACMESharp.Providers.AWS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

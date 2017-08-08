@@ -9,5 +9,7 @@ A microsoft dns provider for handling Challenges. This provider supports the DNS
 | **Name:** | `msdns`
 | **SupportedTypes:** | DNS
 | **IsCleanUpSupported:** | False
+| **Assembly:** | `ACMESharp.Providers.Windows`
+| **Version:** | `0.8.5.0`
 
 ## Parameters

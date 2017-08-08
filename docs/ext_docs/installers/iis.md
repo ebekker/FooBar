@@ -8,6 +8,8 @@ Provider for installing certificates to a local IIS site
 |-|-|
 | **Name:** | `iis`
 | **IsUninstallSupported:** | True
+| **Assembly:** | `ACMESharp.Providers.IIS`
+| **Version:** | `0.8.5.0`
 
 ## Parameters
 ---

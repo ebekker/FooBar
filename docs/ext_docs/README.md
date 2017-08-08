@@ -7,4 +7,9 @@ currently available for use with ACMESharp.
 
 * [Challenge Handlers](handlers/README.md)
 * [Installers](installers/README.md)
+* [Vault Storage](vaults/README.md)
 * [Challenge Decoders](decoders/README.md)
+* [PKI Tools](pkitools/README.md)
+
+
+[CHECKSUMS](CHECKSUMS.md)
