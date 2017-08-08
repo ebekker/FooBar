@@ -1,6 +1,5 @@
-﻿
-[Provider Extensions](../..) > [Challenge Handlers](..) > Manual Provider
- 
+﻿[ACMESharp Provider Extensions](../) > [Challenge Handlers](./) > manual
+
 # Challenge Handler: Manual Provider
 
 A manual provider for handling Challenges. This provider supports the DNS and HTTP Challenge types and computes all the necessary response values. It will provide instructions to the user on what to do with the values but actual steps must be implemented manually.

@@ -1,4 +1,5 @@
-﻿
+﻿[ACMESharp Provider Extensions](../) > [Challenge Handlers](./) > aws-s3
+
 # Challenge Handler: AWS S3
 
 Provider for handling Challenges that manages file entries hosted in an AWS S3 bucket.  The handler depends on an appropriate DNS mapping to be configured externally that resolves to the target bucket.
