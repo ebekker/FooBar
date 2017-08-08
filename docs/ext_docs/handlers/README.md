@@ -1,4 +1,6 @@
 ﻿
+[Provider Extensions](..) > Challenge Handlers
+
 # Provider Extensions for Challenge Handler
 
 Challenge Handlers are used by ACMESharp to fulfill *Challenges* issued by
